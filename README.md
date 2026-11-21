@@ -155,5 +155,3 @@ The mini-project helped apply these concepts to student performance data and und
 
 **Internship:** InternNova – Artificial Intelligence & Python Internship  
 **Assignment:** Week 2 – Python for AI & Data Handling  
-**Duration:** 7 Days  
-**Total Marks:** 100
